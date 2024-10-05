@@ -23,5 +23,5 @@ This repository contains a Bash script (`setup_audit_logs.sh`) designed to creat
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/mysql-audit-log-setup.git
+git clone https://github.com/arunsoman/mysql-audit-log-setup.git
 cd mysql-audit-log-setup
